@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://j-a-crypto.github.io/csb-w2ijs/static/css/main.ccfc4dda.chunk.css",
+    "main.js": "https://j-a-crypto.github.io/csb-w2ijs/static/js/main.296efabd.chunk.js",
+    "main.js.map": "https://j-a-crypto.github.io/csb-w2ijs/static/js/main.296efabd.chunk.js.map",
+    "runtime-main.js": "https://j-a-crypto.github.io/csb-w2ijs/static/js/runtime-main.62229810.js",
+    "runtime-main.js.map": "https://j-a-crypto.github.io/csb-w2ijs/static/js/runtime-main.62229810.js.map",
+    "static/js/2.cccd1b5c.chunk.js": "https://j-a-crypto.github.io/csb-w2ijs/static/js/2.cccd1b5c.chunk.js",
+    "static/js/2.cccd1b5c.chunk.js.map": "https://j-a-crypto.github.io/csb-w2ijs/static/js/2.cccd1b5c.chunk.js.map",
+    "index.html": "https://j-a-crypto.github.io/csb-w2ijs/index.html",
+    "static/css/main.ccfc4dda.chunk.css.map": "https://j-a-crypto.github.io/csb-w2ijs/static/css/main.ccfc4dda.chunk.css.map",
+    "static/js/2.cccd1b5c.chunk.js.LICENSE.txt": "https://j-a-crypto.github.io/csb-w2ijs/static/js/2.cccd1b5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62229810.js",
+    "static/js/2.cccd1b5c.chunk.js",
+    "static/css/main.ccfc4dda.chunk.css",
+    "static/js/main.296efabd.chunk.js"
+  ]
+}
